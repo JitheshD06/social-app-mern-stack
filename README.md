@@ -29,7 +29,7 @@ A **full-stack social networking platform** built using the MERN stack (**MongoD
 - CSS / Tailwind CSS
 
 **Backend:**
-- Node
+- Node.js
 - Express.js
 - MongoDB with Mongoose 
 
